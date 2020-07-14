@@ -27,6 +27,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+
 @interface JB : NSObject
 BOOL isJb();
 BOOL isInjectedWithDynamicLibrary();
